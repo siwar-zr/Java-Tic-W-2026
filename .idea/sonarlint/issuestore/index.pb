@@ -19,8 +19,6 @@ C
 src/ScientCalc.java,1\5\15c086573c3bc53da2ae614b2debaa7c19166f3f
 @
 src/AdvCalc.java,7\3\7349d00bb26e7b51299ed92564fdb3cadcd4c281
-A
-src/Heritage.java,2\b\2b726b7c7be3999ced82d38a1378c62863bddf07
 Z
 *src/Exercices_Encapsulation/Exercice1.java,6\e\6ede0edfd00a3201f82081ca9bc68694415929be
 U
